@@ -30,6 +30,4 @@ This project evaluates the analytical skills of students by collecting, analyzin
 2. Open the project in your preferred code editor or Jupyter Notebook.
 3. Run the main script `analisis_datos.py` to load and process the data.
 4. Visualizations are separated into individual Python files for ease of use.
-   
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
